@@ -58,10 +58,8 @@ a {
     z-index: 1;
 }
 
-.hero-wrap {
+.header {
     position: relative;
-    flex-direction: column;
-    display: flex;
     background-color: #e6f0ff;
     height: 100vh;
 }
@@ -69,6 +67,7 @@ a {
 .navbar {
     display: flex;
     align-items: center;
+    /* padding-top: 38px; */
     padding: 12px 0;
 }
 

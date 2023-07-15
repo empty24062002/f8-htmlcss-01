@@ -52,16 +52,10 @@ a {
 /* Header */
 .fixed-header {
     background-color: #e6f0ff;
-    padding-top: 26px;
-    position: sticky;
-    top: -26px;
-    z-index: 1;
 }
 
-.hero-wrap {
+.header {
     position: relative;
-    flex-direction: column;
-    display: flex;
     background-color: #e6f0ff;
     height: 100vh;
 }
@@ -69,7 +63,7 @@ a {
 .navbar {
     display: flex;
     align-items: center;
-    padding: 12px 0;
+    padding-top: 38px;
 }
 
 .navbar ul {

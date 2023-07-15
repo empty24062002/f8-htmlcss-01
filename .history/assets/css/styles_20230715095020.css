@@ -162,7 +162,7 @@ a {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-top: 70px;
+    margin-top: 96px;
 }
 
 .clients .images a {
@@ -622,11 +622,6 @@ a {
     width: 28px;
     height: 28px;
     border-radius: 3px;
-    background: #f9f9f9;
-}
-
-.footer .social-link + .social-link {
-    margin-left: 16px;
 }
 
 .footer .social-link:hover {

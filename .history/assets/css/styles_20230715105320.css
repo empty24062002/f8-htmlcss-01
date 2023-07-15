@@ -67,7 +67,6 @@ a {
     position: relative;
     flex-direction: column;
     display: flex;
-    justify-content: space-between;
     background-color: #e6f0ff;
     height: calc(100vh - 90px);
 }
@@ -110,11 +109,11 @@ a {
     border-radius: 8px;
 }
 
-.hero {
+.hero-wrap {
     margin-top: 130px;
 }
 
-.hero .info {
+.hero-wrap.info {
     width: 51%;
 }
 
